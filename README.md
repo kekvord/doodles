@@ -2,7 +2,7 @@
 A library for interacting with the Google Doodles API
 
 ## Installation
-```npm install doodles```
+```npm install doodles (i havent published it yet)```
 
 ### Usage
 ```js
